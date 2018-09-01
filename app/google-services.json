@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "843153234988",
+    "firebase_url": "https://happymeals-4a25f.firebaseio.com",
+    "project_id": "happymeals-4a25f",
+    "storage_bucket": "happymeals-4a25f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843153234988:android:75526ea90f52a70e",
+        "android_client_info": {
+          "package_name": "com.example.android.happymeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843153234988-8bob8qt0pspkn2befjaouf5gabrosodc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.happymeals",
+            "certificate_hash": "bf3e79d3b9535ae2e0b68b495aba63d6a8e9f707"
+          }
+        },
+        {
+          "client_id": "843153234988-c700vsrfa5avs00h8c3946kfftv7j6f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5G9xsx4koJ0hV_p_gRvLw-7Mv6ZNWRBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843153234988-c700vsrfa5avs00h8c3946kfftv7j6f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
